@@ -1,0 +1,64 @@
+PardusLabs Gizlilik politikası / En-TR
+
+Gizlilik Politikası ve Kullanım Koşulları Burada belirtilen gizlilik politikası ve kullanım koşulları; PardusLabs'ın Google Play Store ve IOS App Store'da yayınlanan bütün mobil uygulamaları için geçerlidir. Bu uygulamaları mobil cihazınıza yükleyerek, bu metinde yer alan gizlilik politikasını ve kullanım koşullarını kabul etmiş sayılırsınız. Bu koşulları kabul etmiyorsanız bu uygulamaları mobil cihazınıza yüklemeyiniz.
+
+Uygulamalarımızda, Girilen Veriler şifreli sunucularda sadece sizlerin görebileceği şekilde depolanır ve 3. şahıs yada kurumlar ile paylaşılmaz.
+
+Telefon Kullanım İzinleri,Uygulamımızdan bulunan kısayol arama işlemi için gerekli olan izinlerin tarafınızdan sağlanmış olması gerekir.Verilen bu izin sadece Uygulamada kayıtlı olan müşterilerinizin kısayol aramlarında kullanılmaktadır ve müşterilerinize ait kişisel veriler sadece size özel veritabnlarında şifreli olarak saklanır.
+
+İnternet Kullanım İzinleri,Uygulamımızdan Verilerin Şifreli sunuculara gönderilebilmesi için gerekli olan izindir ve kullanıcıların bunu tanımlaması gerekir. bu izinler telefonunuzdan isteğiniz dışında bir bilgiyi transfer etmek için kullanılmaz. Verilen internet erişim izni sadece uygulama içersinde dolduracağınız formlara ait veri ve fotoğraf transferi için kullanılmaktadır.
+
+Kamera Kullanımı: Mobil Uygulamalarımızda kamera kullanımı sadece uygulama içersinden göndermek istediğiniz fotoğraflar için kullanılmaktadır. kullanıcı bilgisi dışında kullanımı söz konusu değildir. Mobil uygulamada çekilen fotoğraflar kullanıcıya ait şifreli ortamda saklanır ve sadece kendisinin ve bağlı olduğu kurumun erişimine açıktır. Fotoğraflar 3. şahıs yada kurumlar ile kullanıcı bilgisi dışında paylaşılmaz.
+
+PardusLabs, kaliteli ve yararlı uygulamalar yayınlamak için her zaman gereken özeni ve duyarlılığı gösterecektir. Buna rağmen, uygulamalarımızda yer alan içeriklerin beklentilerinizi karşılayacağı, size yararlı olacağı veya kesin doğru bilgileriçereceğine dair PardusLabs olarak  hiçbir taahhütte bulunmamaktayız. Uygulamaları olduğu gibi sunmaktayız. Bu sebeple, uygulamalarımızdan kaynaklı yaşanacak herhangi bir olumsuz durum için Uldızsoft'u sorumlu tutamayacağınızı kabul etmektesiniz.
+
+PardusLabs, bu uygulamaların güvenliği konusunda alınabilecek tüm önlemleri almak için gereken ölçüde çaba sarf eder ve Google Play Geliştirici Programı Politikaları sözleşmesi kapsamındaki yükümlülüklerini yerine getirir. Bununla birlikte; internet ve dijital ortamlar yeterli düzeyde güvenli alanlar değildir. Bu yüzden size yüzde yüz güvenli bir hizmet sunacağımız konusunda herhangi bir garantide bulunmamaktayız. Uygulamalarımız sadece Google Play Store ve IOS App Store'da yer almaktadır. Bu uygulamaların bizim bilgimiz dışında başka bir android yada IOS mağazasında yer alması durumunda, buradan yapılacak yüklemelerden PardusLabs sorumlu tutulamaz.
+
+Bu uygulamalarda, üçüncü taraflara ait reklamlar ve linkler yer alabilir. Bu üçüncü taraflara ait reklamların ve linklerin niteliğinden, içeriğinden, güvenliğinden veya bunlardan kaynaklı oluşabilecek zararlardan PardusLabs'ı sorumlu tutamayacağınızı kabul etmektesiniz. Google tarafından yayınlanan reklamlara ilişkin ayarlarınızı nasıl düzenleyeceğinizi, reklam ayarları sayfasından öğrenebilirsiniz.
+
+
+Veri güvenliği konusunda PardusLabs sektör standartlarının gerekliliği olan önlemleri almayı tahüt eder ancak buna rağmen oluşabilecek sızıntılardan dolayı sorumluluk yüklenemez, her kullanıcı bunu kabul eder.
+
+
+Bu uygulamalarda yer alan sesli, yazılı ve görsel öğelerden ve yazılımlardan oluşan bütün içeriğe ilişkin her türlü telif hakkı PardusLabs’a aittir. Herhangi bir uygulamamızı veya bu uygulamaların telif haklarıyla korunan içeriğini; kopyalama, çoğaltma, yeniden yayımlama, parçalarına ayırma, tekrar kamuya sunma vb. eylemlerde bulunmayacağınızı kabul etmektesiniz.
+
+
+Burada belirtilen koşullarla ilgili görüş ve önerilerinizi, uldizsoft@gmail.com mail adresinden bize iletebilirsiniz.
+
+PardusLabs; bu Gizlilik Politikası ve Kullanım Koşulları metninde değişiklik yapabilir. Yapılan değişiklikler anında yürürlüğe girecektir. Değişiklik yaptığımız tarihi, "son güncelleme tarihi" olarak en alt kısımda belirtiriz.Bu Gizlilik Bildirimi ile ilgili herhangi bir sorunuz veya açıklamalarınız varsa, lütfen bir e-posta göndererek bizimle iletişime geçin. 
+
+Son güncelleme tarihi: 25 Temmuz 2022
+
+
+
+
+PardusLabs Privacy policy / En-TR
+
+Privacy Policy and Terms of Use The privacy policy and terms of use stated here; It is valid for all mobile applications of PardusLabs published on Google Play Store and IOS App Store. By installing these applications on your mobile device, you agree to the privacy policy and terms of use contained in this text. If you do not accept these terms, do not install these applications on your mobile device.
+
+In our applications, the data entered is stored on encrypted servers in a way that only you can see and is not shared with third parties or institutions.
+
+Phone Usage Permissions, The permissions required for the shortcut search process found in our Application must be provided by you. This permission is only used for the shortcut calls of your customers registered in the Application, and the personal data of your customers are stored encrypted only in databases specific to you.
+
+Internet Usage Permissions is the permission required to send Data from our Application to Encrypted servers and users need to define it. These permissions are not used to transfer any information from your phone against your will. The given internet access permission is only used for data and photo transfer of the forms you fill in the application.
+
+Camera Usage: Camera usage in our Mobile Applications is only used for the photos you want to send within the application. It is not used without user knowledge. Photos taken in the mobile application are stored in an encrypted environment belonging to the user and are only accessible to him and the institution he is affiliated with. Photos are not shared with third parties or institutions without user information.
+
+PardusLabs will always show the necessary care and sensitivity to publish quality and useful applications. Despite this, we make no commitment as PardusLabs that the content in our applications will meet your expectations, be useful to you or contain accurate information. We present the applications as they are. For this reason, you agree that you cannot hold Uldızsoft responsible for any negative situation that may arise from our applications.
+
+PardusLabs makes every effort to take all possible measures for the security of these applications and fulfills its obligations under the Google Play Developer Program Policies agreement. With this; Internet and digital environments are not sufficiently secure areas. Therefore, we do not make any guarantees that we will provide you with a 100% secure service. Our apps are only available in Google Play Store and IOS App Store. In the event that these applications are located in another android or IOS store without our knowledge, PardusLabs cannot be held responsible for the downloads to be made from here.
+
+These applications may contain advertisements and links from third parties. You agree that you cannot hold PardusLabs responsible for the quality, content, security or any damages that may arise from these third parties' advertisements and links. You can learn how to edit your settings for ads published by Google from the ad settings page.
+
+
+In terms of data security, PardusLabs undertakes to take the measures required by the industry standards, however, it cannot be held responsible for any leaks that may occur, and every user accepts this.
+
+
+All copyrights regarding all content consisting of audio, written and visual elements and software in these applications belong to PardusLabs. any of our apps or their copyrighted content; copying, duplication, republishing, disassembly, re-publication, etc. You agree that you will not take any action.
+
+
+You can send your comments and suggestions about the conditions stated here to us at uldizsoft@gmail.com.
+
+PardusLabs; may make changes to the text of this Privacy Policy and Terms of Use. Changes made will take effect immediately. We will indicate the date we made changes as the "last updated date" at the bottom. If you have any questions or comments regarding this Privacy Statement, please contact us by sending an e-mail.
+
+Last updated date: 25 July 2022
